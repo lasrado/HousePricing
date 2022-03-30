@@ -1,5 +1,5 @@
 # House Price Predictor
-> Use advanced regression and regularisation to predict the house prices based on the training data provided.
+> Use advanced regression and regularisation, build a model to predict the house prices based on the training data provided.
 
 
 ## Table of Contents
@@ -38,13 +38,14 @@ SalePrice is highly correlated with OverallQual, GrLivArea, GarageCars, TotalBsm
 - Python 3
 - Numpy and Pandas
 - sklearn
+- matplot and seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 
 
 ## Contact
-Created by [@lasrado] - feel free to contact me!
+Created by [@lasrado] - feel free to contact me via github!
 
 
 <!-- Optional -->
